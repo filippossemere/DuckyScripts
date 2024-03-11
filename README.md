@@ -12,3 +12,15 @@ These scripts can be used on either the [USB Rubber Ducky](https://hak5.org/prod
 
 ## How can I get help?
 If any help is needed, feel free to either open up an issue or reach out to me on [Twitter](https://twitter.com/UndedInside)
+
+##TODO protocols
+-FeliCa
+-FeliCa Lite
+-ISO/IEC 7816-4
+-Calypso
+-CEPAS
+-T-Money
+-ISO/IEC 15693 "Vicinity"
+-MIFARE Classic
+-MIFARE DESFire
+-MIFARE Ultralight
