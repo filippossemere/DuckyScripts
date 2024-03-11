@@ -11,16 +11,26 @@ It depends on the script. I have tried to give these self-explanatory names, but
 These scripts can be used on either the [USB Rubber Ducky](https://hak5.org/products/usb-rubber-ducky) or the [Flipper Zero](https://flipperzero.one/). For more detailed documentation, refer to the docs of each of these products. I will warn you that this repo was created with the Flipper Zero in mind (personally I just have this folder in my /badusb/ folder of the flipper - I think the folder structure is good for organisation) but it should work when compiled for the Ducky.
 
 ## How can I get help?
-If any help is needed, feel free to either open up an issue or reach out to me on [Twitter](https://twitter.com/UndedInside)
+If any help is needed, feel free to either open up an issue or reach out to me on [Twitter](https://twitter.com/fsvq_)
 
 ##TODO protocols
+
 -FeliCa
+
 -FeliCa Lite
+
 -ISO/IEC 7816-4
+
 -Calypso
+
 -CEPAS
+
 -T-Money
+
 -ISO/IEC 15693 "Vicinity"
+
 -MIFARE Classic
+
 -MIFARE DESFire
+
 -MIFARE Ultralight
